@@ -1,0 +1,10 @@
+hr {
+    border: 3px solid;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 1rem;
+}

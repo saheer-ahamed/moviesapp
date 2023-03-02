@@ -1,0 +1,6 @@
+.cards .eachCard img{
+    border: 1px solid;
+    min-width: 15rem;
+    height: 10rem;
+    object-fit: cover;
+}
